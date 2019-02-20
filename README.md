@@ -1,2 +1,6 @@
 # brainjs
-Learning some brain.js
+Learning some Machine Learning
+
+https://github.com/BrainJS/brain.js
+
+https://scrimba.com/g/gneuralnetworks
